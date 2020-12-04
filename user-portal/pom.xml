@@ -11,6 +11,7 @@
 	<groupId>com.angular.spring</groupId>
 	<artifactId>user-portal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>	
 	<name>user-portal</name>
 	<description>Demo project for Spring Boot</description>
 
